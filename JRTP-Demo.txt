@@ -1,0 +1,363 @@
+
+=====================================
+Java Real-Time Project Development
+=====================================
+
+Course Code : 27-JRTP
+
+Trainer: Mr. Ashok (11+ Yrs Exp, Java Fullstack Developer)
+
+Role : Project Manager (Banking Sector)
+
+Teaching Exp : 8+ Yrs Exp
+
+Note: Ashok IT started in 2020
+
+========================
+Pre-Requisites
+========================
+
+1) Core Java (upto java 1.8v )
+
+2) Adv Java (JDBC, Sevlets & MVC)
+
+3) Database (SQL)
+
+4) Web Development (Added Advantage)
+
+5) Spring Boot & Microservices (Paralelly you can learn)
+
+===============
+Course Content
+==============
+
+Module-1 : Introduction (Theory)
+		
+		  - Software Companies
+		  - Types of Jobs
+		  - Types of Projects
+		  - How to cover career gap
+
+Module-2 : Real-Time Tools (20+ Tools)
+
+		  - Source Code Repository (Git Hub & BitBucket)
+		  - Build Tools (Maven & Gradle)
+		  - Logging Tools (Log4j, Logback)
+		  - Log Monitoring Tools (Putty, ELK)
+		  - Testing Tools (Junit, Mockito, Jacocco)
+		  - Code Review Tools (SonarQube)
+		  - Deployment Tools (Docker, K8S, Jenkins)
+		  - Project Management (JIRA)
+		  - Artifactory Tools (Nexus, JFrog)
+		  - Message Queues (Apache Kafka)
+		  - Cache (GemFire, Redis)
+		  - Documenation (Swagger)
+		  - API Testing (Postman)
+
+Module-3 : Mini Projects (2)
+
+			- Requirements Analysis
+			- Query Log Preparation
+			- JAM sessions
+			- Effort Estimations
+			- DB Design (Data Modeling)
+			- Components Design
+			- Development
+			- Testing
+			- Debugging
+
+Module-4 : Microservices (Basics)
+
+			- Service Registry
+			- Admin Server
+			- Zipkin Server
+			- API Gateway
+			- Config Server
+			- FeignClient
+			- Circuit Breaker
+
+Module-5 : AWS Cloud & Linux OS (Basics)
+
+			- What is Cloud & Why ?
+			- EC2 (Virtual Machines)
+			- S3 (Storage)
+			- RDS (Relational DB)	
+			- IAM (User Management)
+			- Lambdas (Serverless computing)
+			- Route 53 (DNS)
+			- EKS (Kubernetes cluster)	
+			- Billing in AWS		
+
+Module-6 : Angular 
+
+Module-7 : One Major Project Development (E-Commerce) (Team Work)
+
+Module-8 : Interview Guidance
+
+			- Resume Building
+			- Mock Interviews
+			- FAQ's
+			- Do's & Don'ts
+			- Placement Assistance
+
+============
+Course Info
+============
+
+Course Code : 27-JRTP
+
+Duration : 3 to 4 Months
+
+Class Timings: 7:00 AM - 8:30 AM (IST) (Mon-Sat)
+
+Course Fee (Plan-1) : 9000 INR (Live classes + Soft copy of notes)
+
+Course Fee (Plan-2) : 12,000 INR (Live Classes + Notes + Videos - 1 year validity)
+
+
+	############ JRTP = JRTP + 20 Tools + Angular + AWS + Linux ###############
+
+
+=> Daily Doubts Clarifications 	
+
+=> Problem Solving
+
+=> Group for discussions
+
+=> LMS Access
+
+===============================================
+
+1) What is Software Project & why ?
+
+2) Types of software projects
+
+3) Types of software companies
+
+4) Interview process
+
+
+=> Collection of programs is called as Software project
+
+=> S/w projects are used to reduce human efforts & simplifies humans life
+
+		- online banking
+		- tickets booking
+		- online shopping
+
+=> We can see 3 types of projects in companies
+
+		1) Scratch development	(fresh project)	==> 10 %
+
+		2) Maintenence / support ==> 75 %
+
+				- Change Requests
+				- Enhancements
+				- Bug Fixing
+
+		3) Migration ==> 15 %
+
+==============================
+Types of Software Companies
+==============================
+
+1) Product Based Companies
+
+2) Service Based Companies
+
+3) Outsourcing Companies
+
+
+=> Product Based Companies
+
+		*** Develop and sell s/w to customers ***
+
+		Ex: Microsoft, Google, Apple, Meta, Amazon, Oracle, IBM ....
+
+		=> Interview Pattern
+
+			1) Coding Test
+			2) Data Structures
+			3) Algorithms
+			4) System Design
+			5) Design Patterns
+		
+		=> Interview Process will be lengthy & difficult
+
+		=> High packages will be provided
+
+			Ex: years_of_exp * 10 to 15 LPA
+
+
+=> Service Based Companies
+
+		** Develop the project based on client requirement **
+
+		Ex: TCS, Infy, HCL, CTS, Accenture, Deloitte, Wipro, TechM etc...
+
+		=> Interview Pattern
+
+			1) DSA
+			2) Latest Technologies
+			3) Core Java
+			4) Spring Boot
+			5) Microservices
+			6) Security
+			7) Cloud
+			8) Tools
+
+		=> Package structure
+
+			Ex : years_of_exp * 3 to 5 LPA
+
+#### Note: In service based companies, ONSITE opportunites will be available ####
+
+=> Outsourcing companies
+
+- Will provide employees to other companies on contract basis
+
+- Many service based companies are doing outsourcing business
+
+	Ex: HCL ---> Microsoft
+
+	Ex : Capgemni ---> Synchrony Bank
+
+	Ex : TechM ---> DBS
+			
+========================
+Types of Software Jobs
+========================
+
+1) Permanent Job
+
+		- Got selected for TCS
+		- TCS paying salary for you
+		- Working on TCS project
+		
+		** more benefits
+				- PF (12% of basic salary)
+				- Family Health Insurance
+				- Notice Period
+
+		** strict BGV
+
+2) Contract Job			
+
+		- Got selected for out sourcing company (abc)
+		- You deployed in JPMC on contract basis
+
+			Payroll company : abc
+			Client company : JPMC
+
+		** Less benefits
+
+		** once contract completed, we need to find another job
+
+================
+Types of teams	
+================
+
+1) Offshore team : Development center
+
+2) Onshore team	: Client location
+
+=> Onshore team will work from client location
+
+=> Roles & responsibilities of Onshore team
+
+	=> Understand client business 
+	=> Collect client requirements
+	=> Prepare FDD
+	=> Explain project requirements to Offshore team members
+	=> in Onsite functional ppl will be there (Business Analysts)
+
+=> Roles & responsibilities of Offshore team
+
+	=> Understand requirements given by onshore team
+	=> For any clarifications connect with onshore team members
+	=> Design + Develop + Test + Deliver
+
+** Everyday meetings will be conducted for onshore and offshore teams for discussion **
+
+Note: As a developer, we can't communicate with client directley.
+
+==============================
+Introduction Classes Summary
+==============================
+
+1) Pre-Requisistes to join JRTP
+
+2) Course Content
+
+3) Course Info
+
+4) Types of software companies
+
+5) Types of software projects
+
+6) Types of software jobs
+
+7) Types of Team in the project
+
+============================================
+What is the benefit of joining this JRTP ?
+============================================
+
+1) Understanding real-time work culture (team work)
+
+2) Understand how to use Real-Time tools in project
+
+3) Improve Requirements Analysis skills
+
+		1) Getting job
+		2) survive in the job
+
+4) Improve Database design skills
+
+5) Improve Coding skills
+
+6) Work on fullstack development (springboot + angular)		
+
+7) Working with DevOps Tools to simplify project develivery process
+
+8) Working with AWS Cloud Infrastructure
+
+9) Working with Linux machines
+
+10) How to implement security in the project
+
+
+=======================================================
+
+1) 20+ Real-Time Tools
+
+2) Mini Projects (2)
+
+3) Major Project (1) (sb + ms + angular + aws + tools)
+
+4) Microservices
+
+5) Linux Basics
+
+6) AWS cloud basics
+
+7) Angular with Typescript
+
+8) Interview Guidance
+
+==============================================
+
+1) Create free tier account in aws cloud platform
+
+Note: It is free tier account, no need to pay amount
+
+card details required (2 rs deduction for card verification)
+
+free tier account => 1 year free access for aws services
+
+if we use any paid service, bill will be generated... 
+
+we can request aws support team to make bill amount zero
+
+if we don't pay bill amount, aws will de-activate our aws account.
+
